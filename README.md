@@ -5,6 +5,8 @@
 ## Sources
 
 * [http://www.aendom.com/en/](http://www.aendom.com/en/)
+* [https://motionarray.com/](https://motionarray.com/)
+* [https://www.videocopilot.net/](https://www.videocopilot.net/)
 
 ## After Effects
 
@@ -14,6 +16,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY5MDI0MjEsLTk3NTYxNjIyOCwtMT
-UyNTk4MjU4XX0=
+eyJoaXN0b3J5IjpbMTM3MTUyNDkzNSwtMTM2NjkwMjQyMSwtOT
+c1NjE2MjI4LC0xNTI1OTgyNThdfQ==
 -->
